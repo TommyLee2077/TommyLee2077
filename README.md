@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating Websites and Webapps!
 - 🌱 I’m currently learning Html,Css,Javascript,PHP,Mysql,Git and so on...
 - 💞️ I’m looking to collaborate on Anyone interested.
-- 📫 How to reach me ...Secret on Now!
+- 📫 How to reach me ...Secret before I get better enough!
 - ✨ What language can I say :Japanese,Chinese,English...
 
 <!---
